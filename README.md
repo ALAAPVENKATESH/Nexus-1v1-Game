@@ -1,4 +1,4 @@
-# 🚀 Quantum Clash: AI Reign
+# 🚀 Nexus: 1v1 Game
 
 **Quantum Clash: AI Reign** is a fast-paced, arcade-style 2D spaceship combat game built using Python and Pygame. Engage in thrilling 1v1 battles against a smart AI bot or another player in a galactic arena.
 
